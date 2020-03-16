@@ -50,7 +50,8 @@ The ocr.py contains all the require code for extracting text from scanned image.
 * Image contain the extract text from the watermark image.
 #### `Note:`
 The ocr engine used here in pytesseract,you can use any of the ocr engine.
-
+### Important:
+To run the repository model file is required which can be downloaded through [here](https://drive.google.com/file/d/1pmWIdYNNszmdG5b9C806vlXvnv6BqJ1z/view?usp=sharing) and placed in the scanner folder
 ### `Usage`
 #### `Scanner`
 ```
@@ -82,3 +83,4 @@ After getting input image the ocr engine will performed its operation to give th
 
 
 The **Scanner app** can be made with the same algorithm in java by using java version of opencv.[see here](https://github.com/burhanuday/codesquad-PS1)
+
